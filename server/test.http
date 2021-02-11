@@ -1,0 +1,11 @@
+@url=http://localhost:3000/admin/api
+
+### 
+
+post {{url}}/categories
+Content-Type: application/json
+
+
+{
+    "name":"user"
+}
